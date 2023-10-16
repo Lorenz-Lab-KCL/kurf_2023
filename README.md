@@ -1,4 +1,4 @@
-To use each folder effectively, copy and unzip both polymer tarball files
+To use each folder, copy and unzip both polymer tarball files in them
 
 For the moe_list_encoder_decoder folder, you can run encoder_decoder_ml.py to train a model with a certain architecture. You can then import the model in the aed_visualisation.py and run it on a few molecules to see its accuracy.
 
